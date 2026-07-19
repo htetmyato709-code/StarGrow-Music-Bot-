@@ -1,4 +1,0 @@
-pyrogram==2.0.106
-tgcrypto
-pytgcalls==2.0.0.dev6
-yt-dlp
